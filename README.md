@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LuissFrank
-- 👀 I’m interested in ... learn more about programming
+- 👀 I’m interested in ... learn more about programming backend development with .net core
 - 🌱 I’m currently learning ... C# .Net Core
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... back-end development
+- 📫 How to reach me ... lfortega1991@gmail.com
 
 <!---
 LuissFrank/LuissFrank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
