@@ -1,8 +1,10 @@
-<img align="left" height="300" width="750" src="https://i.postimg.cc/gjNFYNKv/1500x500.jpg"  />
+<img align="left" height="250" width="600" src="https://i.postimg.cc/gjNFYNKv/1500x500.jpg"  />
 
 ###
 
 <h2 align="center" >𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆</h2> 
+
+###
 
 ###
 
@@ -22,11 +24,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://twitter.com/LuissOrtega" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
-  </a>
-</div>
+
 
 ###
 
