@@ -97,7 +97,6 @@
 
 ###
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=luis-frank&count=2)
 
 <div align="center">
   <img height="70" width="1000" src="https://i.pinimg.com/originals/77/9c/c5/779cc579ae3da9dba7f44b1b740029e7.gif"  />
