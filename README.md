@@ -1,4 +1,4 @@
-<img align="left" height="250" src="https://i.postimg.cc/gjNFYNKv/1500x500.jpg"  />
+<img align="left" height="200" src="https://i.postimg.cc/gjNFYNKv/1500x500.jpg"  />
 
 ###
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luisfrank/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="luisfrank.ortega@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://twitter.com/LuissOrtega" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
 </div>
 
