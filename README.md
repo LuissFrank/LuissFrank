@@ -1,4 +1,4 @@
-![me](https://postimg.cc/n9jw2Kgz)
+![me](https://i.postimg.cc/gjNFYNKv/1500x500.jpg)
 <h1 align="center">Hi 👋, I'm Luis Ortega</h1>
 <h3 align="center">Backend developer .NET</h3>
 
