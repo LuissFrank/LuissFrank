@@ -1,4 +1,4 @@
-![me](https://pbs.twimg.com/profile_banners/129073865/1676855123/1500x500)
+![me](https://postimg.cc/n9jw2Kgz)
 <h1 align="center">Hi 👋, I'm Luis Ortega</h1>
 <h3 align="center">Backend developer .NET</h3>
 
