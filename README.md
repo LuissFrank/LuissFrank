@@ -1,4 +1,4 @@
-<img align="left" height="230" src="https://i.postimg.cc/gjNFYNKv/1500x500.jpg"  />
+<img align="left" height="300" width="750" src="https://i.postimg.cc/gjNFYNKv/1500x500.jpg"  />
 
 ###
 
